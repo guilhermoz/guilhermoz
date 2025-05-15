@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @guilhermoz
+- 👋 Hi, I’m Guilherme Comelli
 - 👀 I’m interested in Front-end Web Development
 - 🌱 I’m currently learning how to build a responsive blog using HMTL, CSS, Javascript and JQuery.
 - 📫 How to reach me guiledc@gmail.com
